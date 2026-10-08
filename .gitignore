@@ -1,0 +1,9 @@
+/target/
+*.dll
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
